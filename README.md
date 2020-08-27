@@ -15,7 +15,6 @@
 <br />
 <br />  
 
-[anaconda]: https://www.anaconda.com/
 ___
 
 
@@ -36,4 +35,6 @@ ___
 ### Some statistics 📈:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy)
+
+[anaconda]: https://www.anaconda.com/
 
