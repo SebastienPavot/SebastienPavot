@@ -13,11 +13,11 @@
 <img align ="left" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/anaconda.svg" />  
 
 <br />
-<br />  
+<br />
 
 ---  
 
-### About myself 👔 :
+### About myself 👔 :  
 - 🔭 I’m currently working on Tesla tweets analysis
 - 🌱 I’m currently learning Deep learning
 - ⚡ Fun fact: I'm french so I can't pronounce "through" correctly
