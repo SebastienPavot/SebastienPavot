@@ -37,6 +37,6 @@
 ### Some statistics 📈:
 <h1>
     <a href="">
-        <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy" />
+        <img align="" height='175px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" /><img align="" height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy" />
     </a>
 </h1>
