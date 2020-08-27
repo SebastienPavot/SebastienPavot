@@ -35,5 +35,8 @@
 ---
 
 ### Some statistics 📈:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy)
+<h1>
+    <a href="">
+        <img align="" height='200px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" /><img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy" />
+    </a>
+</h1>
