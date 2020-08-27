@@ -3,9 +3,9 @@
 ## Languages & Tools:
 
 <img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/rstudio/shiny/master/man/figures/logo.png" />
+<img align="left" alt="r" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="sql" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="shiny" width="75px" src="https://raw.githubusercontent.com/rstudio/shiny/master/man/figures/logo.png" />
 <img align ="left" height="75" width="75" src="https://unpkg.com/simple-icons@v3/icons/tableau.svg" />
 <img align ="left" height="75" width="75" src="https://unpkg.com/simple-icons@v3/icons/powerbi.svg" />
 <img align="left" alt="Jupyter" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
