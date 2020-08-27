@@ -36,6 +36,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy)
 
-</details>
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
