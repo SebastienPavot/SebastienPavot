@@ -16,9 +16,7 @@
 <br />
 
 
-
 ## 👔 About myself:
-
 - 🔭 I’m currently working on Tesla tweets analysis
 - 🌱 I’m currently learning Deep learning
 - ⚡ Fun fact: I'm french so I can't pronounce "through" correctly
