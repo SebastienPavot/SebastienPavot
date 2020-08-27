@@ -27,3 +27,7 @@
 [<img height="50" width="200" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/sebastienpavot/
+
+## Recent activity:
+
+<!--START_SECTION:activity-->
