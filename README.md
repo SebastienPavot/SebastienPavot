@@ -10,7 +10,7 @@
 <img align ="left" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/powerbi.svg" />
 <img align="left" alt="Jupyter" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align ="left" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/anaconda.svg" />][anaconda]  
+[<img align ="left" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/anaconda.svg">](https://www.anaconda.com/)
 
 <br />
 <br />  
