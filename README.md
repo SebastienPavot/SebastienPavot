@@ -17,17 +17,21 @@
 
 ---
 
-## About myself:
+## 👔 About myself:
 
 - 🔭 I’m currently working on Tesla tweets analysis
 - 🌱 I’m currently learning Deep learning
 - ⚡ Fun fact: I'm french so I can't pronounce "through" correctly
 
-## Contact me:
+## 📞 Contact me:
 [<img height="50" width="200" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/sebastienpavot/
 
-## Recent activity:
+## 📈 Some statistics:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy)
+
+
 
 <!--START_SECTION:activity-->
