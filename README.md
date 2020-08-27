@@ -12,6 +12,8 @@
 <img align="left" alt="Visual Studio Code" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="anaconda" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/anaconda.svg" />][anaconda]
 
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 <br />
 <br />  
 
@@ -37,4 +39,5 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&theme=buefy)
 
 [anaconda]: https://www.anaconda.com/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
