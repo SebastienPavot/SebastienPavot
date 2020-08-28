@@ -37,7 +37,6 @@ Contact me  📞:
   <img align="center" height='155px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Interactive-Machine-Learning-App&theme=buefy" />
 </a>
 
-
 <a href="https://github.com/SebastienPavot/TextMining-Twitter-SouthWestAirline">
   <img align="center" height='155px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Twitter-SouthWestAirline&theme=buefy" />
 </a>  
