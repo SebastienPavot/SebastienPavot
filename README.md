@@ -1,5 +1,10 @@
 ## Hi, I'm Sébastien and I'm an Insights Data Analyst at Adot 
 
+### Contact me  📞:
+[<img height="50" width="200" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/sebastienpavot/
+
 ### Languages & Tools:
 
 <img align="left" alt="Python" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -26,11 +31,15 @@
 
 ---
 
-### Contact me  📞:
-[<img height="50" width="200" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+### Recent projets:
+<a href="https://github.com/SebastienPavot/Interactive-Machine-Learning-App">
+  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Interactive-Machine-Learning-App&theme=buefy" />
+</a>
 
-[linkedin]: https://linkedin.com/in/sebastienpavot/
 
+<a href="https://github.com/SebastienPavot/TextMining-Twitter-SouthWestAirline">
+  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Twitter-SouthWestAirline&theme=buefy" />
+</a>  
 
 ---
 
