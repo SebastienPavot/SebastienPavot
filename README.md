@@ -1,9 +1,5 @@
 ## Hi, I'm Sébastien and I'm an Insights Data Analyst at Adot 
 
-### Contact me  📞:
-[<img height="50" width="200" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/sebastienpavot/
 
 ### Languages & Tools:
 
@@ -29,16 +25,21 @@
 - 🌱 I’m currently learning Deep learning
 - ⚡ Fun fact: I'm french so I can't pronounce "through" correctly
 
+Contact me  📞:
+  [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/sebastienpavot/
+
 ---
 
 ### Recent projets:
 <a href="https://github.com/SebastienPavot/Interactive-Machine-Learning-App">
-  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Interactive-Machine-Learning-App&theme=buefy" />
+  <img align="center" height='170px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Interactive-Machine-Learning-App&theme=buefy" />
 </a>
 
 
 <a href="https://github.com/SebastienPavot/TextMining-Twitter-SouthWestAirline">
-  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Twitter-SouthWestAirline&theme=buefy" />
+  <img align="center" height='170px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Twitter-SouthWestAirline&theme=buefy" />
 </a>  
 
 ---
