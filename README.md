@@ -34,7 +34,7 @@ Contact me  📞:
 
 ### Recent projets:
 <a href="https://github.com/SebastienPavot/Interactive-Machine-Learning-App">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Tesla-Tweets-Stock-Price&theme=buefy" />
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Tesla-Tweets-Stock-Prices&theme=buefy" />
 </a>
 
 <a href="https://github.com/SebastienPavot/TextMining-Twitter-SouthWestAirline">
