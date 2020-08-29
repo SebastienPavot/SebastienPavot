@@ -33,11 +33,11 @@ Contact me  📞:
 ---
 
 ### Recent projets:
-<a href="https://github.com/SebastienPavot/Interactive-Machine-Learning-App">
+<a href="https://github.com/SebastienPavot/TextMining-Tesla-Tweets-Stock-Prices">
   <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Tesla-Tweets-Stock-Prices&theme=buefy" />
 </a>
 
-<a href="https://github.com/SebastienPavot/TextMining-Twitter-SouthWestAirline">
+<a href="https://github.com/SebastienPavot/Interactive-Machine-Learning-App">
   <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Interactive-Machine-Learning-App&theme=buefy" />
 </a>  
 
