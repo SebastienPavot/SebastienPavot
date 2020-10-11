@@ -33,12 +33,12 @@ Contact me  📞:
 ---
 
 ### Recent projets:
-<a href="https://github.com/SebastienPavot/Text-Classification-with-Keras">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Text-Classification-with-Keras&theme=buefy" />
+<a href="https://github.com/SebastienPavot/Kaggle-Competition-Classification-Disaster-Tweets">
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Competition-Classification-Disaster-Tweets&theme=buefy" />
 </a>
 
-<a href="https://github.com/SebastienPavot/TextMining-Tesla-Tweets-Stock-Prices">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=TextMining-Tesla-Tweets-Stock-Prices&theme=buefy" />
+<a href="https://github.com/SebastienPavot/Text-Classification-with-Keras">
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Text-Classification-with-Keras&theme=buefy" />
 </a>  
 
 ---
