@@ -33,8 +33,8 @@ Contact me  📞:
 ---
 
 ### Recent projets:
-<a href="https://github.com/SebastienPavot/Kaggle-Competition-Classification">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Competition-Classification&theme=buefy" />
+<a href="https://github.com/SebastienPavot/Kaggle-Tweets-Classification">
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Tweets-Classification&theme=buefy" />
 </a>
 
 <a href="https://github.com/SebastienPavot/Text-Classification-with-Keras">
