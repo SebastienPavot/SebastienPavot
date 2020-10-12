@@ -21,9 +21,9 @@
 ------
 
 ### About myself 👔 :  
-- 🔭 I’m currently working on Text classification with Keras
+- 🔭 I’m currently working on Image classification with Keras
 - 🌱 I’m currently learning Deep learning
-- ⚡ Fun fact: I'm french so I can't pronounce "through" correctly
+- ⚡ Fun fact: I'm french and I can't pronounce "through" correctly
 
 Contact me  📞:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
