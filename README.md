@@ -33,12 +33,12 @@ Contact me  📞:
 ---
 
 ### Recent projets:
-<a href="https://github.com/SebastienPavot/Kaggle-Tweets-Classification">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Tweets-Classification&theme=buefy" />
+<a href="https://github.com/SebastienPavot/Kaggle-Cat-vs-Dog-Classification">
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Cat-vs-Dog-Classification&theme=buefy" />
 </a>
 
-<a href="https://github.com/SebastienPavot/Text-Classification-with-Keras">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Text-Classification-with-Keras&theme=buefy" />
+<a href="https://github.com/SebastienPavot/Kaggle-Tweets-Classification">
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Tweets-Classification&theme=buefy" />
 </a>  
 
 ---
