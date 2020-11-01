@@ -21,9 +21,9 @@
 ------
 
 ### About myself 👔 :  
-- 🔭 I’m currently working on Image classification with Keras
-- 🌱 I’m currently learning JavaScript
-- ⚡ Fun fact: I'm french and I can't pronounce "through" correctly
+- 🔭  I’m currently working on Image classification with Keras
+- 🌱  I’m currently learning JavaScript
+- 👉  Fun fact: I'm french and I can't pronounce "through" correctly
 
 Contact me  📞:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -45,9 +45,9 @@ Contact me  📞:
 
 ### Some statistics 📈:
    <a href = "">
-      <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" />
+      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" />
   </a>
   
   <a href = "">
-      <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&layout=compact&theme=buefy" />
+      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&layout=compact&theme=buefy" />
   </a>
