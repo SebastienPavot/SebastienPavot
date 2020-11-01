@@ -45,9 +45,9 @@ Contact me  📞:
 
 ### Some statistics 📈:
    <a href = "">
-      <img align="center" height='190px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" />
+      <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&show_icons=true&theme=buefy" />
   </a>
   
   <a href = "">
-      <img align="center" height='190px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&layout=compact&theme=buefy" />
+      <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&layout=compact&theme=buefy" />
   </a>
