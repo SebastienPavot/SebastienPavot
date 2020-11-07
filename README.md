@@ -22,7 +22,7 @@
 
 ### About myself 👔 :  
 - 🔭 I’m currently working on Image classification with Keras
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript / HTML / CSS
 - 👉 Fun fact: I'm french and I can't pronounce "through" correctly
 
 Contact me  📞:
