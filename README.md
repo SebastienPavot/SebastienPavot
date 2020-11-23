@@ -21,8 +21,8 @@
 ------
 
 ### About myself 👔 :  
-- 🔭 I’m currently working on Image classification with Keras
-- 🌱 I’m currently learning JavaScript / HTML / CSS
+- 🔭 I’m currently working on Image classification with Neural Networks
+- 🌱 I’m currently learning Deep Learning
 - 👉 Fun fact: I'm french and I can't pronounce "through" correctly
 
 Contact me  📞:
@@ -33,11 +33,11 @@ Contact me  📞:
 ---
 
 ### Recent projets:
-<a href="https://github.com/SebastienPavot/Kaggle-Cat-vs-Dog-Classification">
+<a href="https://github.com/SebastienPavot/Kaggle-NYC-Taxi-Trip-Duration">
   <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Cat-vs-Dog-Classification&theme=buefy" />
 </a>
 
-<a href="https://github.com/SebastienPavot/Kaggle-Tweets-Classification">
+<a href="https://github.com/SebastienPavot/Kaggle-Cat-vs-Dog-Classification">
   <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Tweets-Classification&theme=buefy" />
 </a>  
 
