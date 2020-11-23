@@ -34,11 +34,11 @@ Contact me  📞:
 
 ### Recent projets:
 <a href="https://github.com/SebastienPavot/Kaggle-NYC-Taxi-Trip-Duration">
-  <img align="center" height='155px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-NYC-Taxi-Trip-Duration&theme=buefy" />
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-NYC-Taxi-Trip-Duration&theme=buefy" />
 </a>
 
 <a href="https://github.com/SebastienPavot/Kaggle-Cat-vs-Dog-Classification">
-  <img align="center" height='155px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-NYC-Taxi-Trip-Duration&theme=buefy" />
+  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienPavot&repo=Kaggle-Cat-vs-Dog-Classification&theme=buefy" />
 </a>  
 
 ---
