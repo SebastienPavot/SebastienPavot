@@ -1,4 +1,4 @@
-## Hi, I'm Sébastien and I'm an Insights Data Analyst <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Sébastien and I'm a Data Analyst <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### Languages & Tools:
@@ -23,7 +23,7 @@
 ### About myself 👔 :  
 - 🔭 I’m currently working on Image classification with Neural Networks
 - 🌱 I’m currently learning Deep Learning
-- 👉 Fun fact: I'm french and I can't pronounce "through" correctly
+- 👉 Fun fact: I can't pronounce "through" correctly
 
 Contact me  📞:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
