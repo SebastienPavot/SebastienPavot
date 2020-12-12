@@ -50,5 +50,5 @@ Contact me  📞:
   </a>
   
   <a href = "">
-      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&layout=compact&theme=buefy" />
+      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&layout=compact&theme=buefy" />
   </a>
