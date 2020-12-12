@@ -21,7 +21,7 @@
 ---
 
 ### About myself 👔 :
-- 👨🏻‍💻 I'm a french Data Analyst working at Adot, an programmatic advertising company
+- 👨🏻‍💻 I'm a french Data Analyst working at Adot, a programmatic advertising company
 - 🔭 Working on Image classification with Neural Networks
 - 🌱 Currently learning Deep Learning
 - 👉 Fun fact: I can't pronounce "through" correctly
@@ -50,5 +50,5 @@ Contact me  📞:
   </a>
   
   <a href = "">
-      <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&langs_count=3&layout=compact&theme=buefy" />
+      <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&langs_count=3&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&layout=compact&theme=buefy" />
   </a>
