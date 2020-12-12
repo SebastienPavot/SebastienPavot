@@ -44,7 +44,7 @@ Contact me  📞:
 
 ---
 
-### Some statistics 📈:
+### My statistics 📈:
    <a href = "">
       <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&count_private=true&show_icons=true&theme=buefy" />
   </a>
