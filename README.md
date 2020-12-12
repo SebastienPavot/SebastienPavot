@@ -12,7 +12,8 @@
 <img align ="left" alt="tableau" height="70" width="70" src="https://user-images.githubusercontent.com/55701302/101988668-4c24a700-3c9b-11eb-9097-704c720b7f82.png" />
 <img align ="left" alt="powerbi" height="70" width="70" src="https://user-images.githubusercontent.com/55701302/101988763-1c29d380-3c9c-11eb-8bd2-917004828a33.png" />
 
-.
+<br />
+<br />
 
 <br />
 <br />
