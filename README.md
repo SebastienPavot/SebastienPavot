@@ -18,7 +18,7 @@
 <br />
 <br />
 
-----
+---
 
 ### About myself 👔 :
 - 👨🏻‍💻 I'm a french Data Analyst working at Adot, an programmatic advertising company
