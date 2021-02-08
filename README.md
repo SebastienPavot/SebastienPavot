@@ -21,7 +21,7 @@
 ---
 
 ### About myself 👔 :
-- 👨🏻‍💻 I'm a french Data Analyst working at Adot, a programmatic advertising company
+- 👨🏻‍💻 I'm a french Data Analyst
 - 🔭 Working on Image classification with Neural Networks
 - 🌱 Currently learning Deep Learning
 - 👉 Fun fact: I can't pronounce "through" correctly
