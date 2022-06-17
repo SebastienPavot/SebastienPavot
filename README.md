@@ -1,4 +1,4 @@
-## Hi, I'm Sébastien and I'm a Data Analyst <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Sébastien and I'm a Product Data Analyst
 
 
 ### Languages & Tools:
