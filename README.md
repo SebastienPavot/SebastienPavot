@@ -1,6 +1,7 @@
-#Hi, I'm Sébastien and I'm a Senior Product Data Analyst / Engineer 🧑🏻‍💻
+# Hi, I'm Sébastien and I'm a Senior Product Data Analyst / Engineer 🧑🏻‍💻
 
 ### Languages & Tools:
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="70px" align="left">
   <img src="https://user-images.githubusercontent.com/55701302/101988617-f8b25900-3c9a-11eb-91c0-e255a5318b30.png" alt="SQL" width="70px" align="left">
@@ -11,6 +12,7 @@
   <img src="https://github.com/SebastienPavot/SebastienPavot/assets/55701302/1f8b1b2c-e633-46bf-9a6d-42d1166e464b" alt="Visual Studio Code" width="70px" align="left">
   <img src="https://user-images.githubusercontent.com/55701302/101988668-4c24a700-3c9b-11eb-9097-704c720b7f82.png" alt="Tableau" height="70" width="70" align="left">
 </p>
+
 
 <br>
 
@@ -27,11 +29,6 @@
   <a href = "">
       <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&langs_count=4&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&layout=compact&theme=buefy" />
   </a>
-
-
-
-
-<br>
   
 ---
 
