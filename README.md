@@ -1,4 +1,4 @@
-# Hi, I'm Sébastien and I'm a Senior Product Data Analyst / Engineer 🧑🏻‍💻
+# Hi, I'm Sébastien and I'm a Senior Product Data Analyst/Engineer 🧑🏻‍💻
 
 ### Languages & Tools:
 
