@@ -15,7 +15,9 @@
 
 
 <br>
-
+<br>
+<br>
+<br>
 
 <details>
 <summary>
@@ -57,11 +59,12 @@ Contact me  📞:
 
 ## What I'm currently learning 📚
 
-- Diving into VS Code's code base
-- Typescript's magic
-- Rust's blazing-fastness
+* HTML & CSS
+* Javascript
+* Improving dbt knowledge
 
 ### My statistics 📈:
+
    <a href = "">
       <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api?username=SebastienPavot&count_private=true&show_icons=true&theme=buefy" />
   </a>
@@ -69,3 +72,4 @@ Contact me  📞:
   <a href = "">
       <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienPavot&langs_count=4&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&layout=compact&theme=buefy" />
   </a>
+</details>
